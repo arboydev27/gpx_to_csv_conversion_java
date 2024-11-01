@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 1: GPX to CSV using Java
 
 A GPX file is a GPS data file saved in the GPS Exchange format, which is an open standard used by many GPS programs. It contains latitude and longitude location data that may include waypoints, routes, and tracks. A CSV file is a comma-separated values file commonly used by spreadsheet programs such as Microsoft Excel. It contains plain text data sets separated by commas, with each new line in the CSV file representing a new database row and each database row consisting of one or more fields separated by a comma.
@@ -52,3 +53,5 @@ You will be graded on:
 Note that the data file used in Zybooks is different from the one in GitHub so your solution should be a general solution.
 
 Submit your project before the due date/time. **No late submissions allowed.**
+=======
+>>>>>>> fa48a70a4b5754802ecfbe05a573810d34819685
